@@ -176,3 +176,5 @@ cython_debug/
 data
 
 myenv
+
+.DS_Store
